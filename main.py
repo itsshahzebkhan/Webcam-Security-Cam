@@ -1,3 +1,9 @@
+# step 1 - to run this project you need to install PyCharm community edition and VS Code
+# step 2 - you need to install a package from your terminal called "cv2" and then import it as shown
+# step 3 - you need to import a built in package called "winsound" as shown
+# stap 4 - start coding
+
+
 import cv2
 import winsound
 
